@@ -18,7 +18,7 @@ public class ConstantsProperties {
 
     public static final String ACTOR_NAME = "system!";
 
-    public static final String MY_SQL_ADDRESS = "jdbc:mysql://localhost:3306/booklib_sql";
+    public static final String MY_SQL_ADDRESS = "jdbc:mysql://localhost:3306/labfull";
     public static final String MY_SQL_JDBC_DRIVER = "com.mysql.cj.jdbc.Driver";
     public static final String MY_SQL_USER_NAME = "root";
     public static final String MY_SQL_PASSWORD = "civi~ZNPWXyKLP{";
