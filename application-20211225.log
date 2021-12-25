@@ -1,0 +1,19 @@
+2021-12-25 03:41:18.671 [main] INFO  org.example.App - Salamchik
+2021-12-25 04:08:44.791 [main] ERROR dataProviders.mySql.DataProvider - com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2021-12-25 04:08:44.859 [main] ERROR dataProviders.mySql.DataProvider - com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2021-12-25 04:08:44.872 [main] ERROR dataProviders.mySql.DataProvider - com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2021-12-25 04:08:44.879 [main] ERROR dataProviders.mySql.DataProvider - com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2021-12-25 04:08:44.884 [main] ERROR dataProviders.mySql.DataProvider - com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2021-12-25 04:08:44.890 [main] ERROR dataProviders.mySql.DataProvider - com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
